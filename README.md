@@ -11,4 +11,4 @@ robotics.
 
 **Tools:** MATLAB · Simulink · C · Python · SQL
 
-📫 [muhammetalicelix@gmail.com](mailto:muhammetalicelix@gmail.com) · [LinkedIn](https://linkedin.com/in/muhalice) · [ITU page](https://web.itu.edu.tr/celikmu21/)
+📫 [muhalicelix@gmail.com](mailto:muhalicelix@gmail.com) · [LinkedIn](https://linkedin.com/in/muhalice) · [ITU page](https://web.itu.edu.tr/celikmu21/)
