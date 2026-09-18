@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @muhal1
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Pyhton
-- 📫 How to reach me? I don't know.
+### Hi, I'm Muhammet Ali Çelik 👋
 
-<!---
-muhal1/muhal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+M.Sc. student in Control and Automation Engineering at Istanbul Technical
+University. I work on flight control systems, aircraft dynamic modeling, and
+robotics.
+
+- 🛩️ Built a 6-DOF F-16 dynamic model and trim/linearization tools from scratch at **TUSAŞ**
+- 🎯 Designed stabilization algorithms for two-axis EO gimbals
+- 🚀 Led the control team for **İTÜ TVC Rocket**'s vertical-landing project
+- 🔧 Worked on control systems at **ASELSAN**
+
+**Tools:** MATLAB · Simulink · C · Python · SQL
+
+📫 [muhammetalicelix@gmail.com](mailto:muhammetalicelix@gmail.com) · [LinkedIn](https://linkedin.com/in/muhalice) · [ITU page](https://web.itu.edu.tr/celikmu21/)
